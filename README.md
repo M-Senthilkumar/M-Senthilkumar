@@ -98,17 +98,7 @@ Key Features:
 
 📱 Responsive interface
 
-</details>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=M-Senthilkumar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <br/><br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Senthilkumar&theme=radical&hide_border=true" alt="GitHub Streak" /> <br/><br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Senthilkumar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> </div>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Quick Stats
-<div align="center"> <table> <tr> <td>🎓 <b>Education</b></td> <td>B.Tech Information Technology</td> <td>📍 <b>Location</b></td> <td>Kallakurichi, Tamilnadu</td> </tr> <tr> <td>📚 <b>CGPA</b></td> <td>7.39</td> <td>🎯 <b>Goal</b></td> <td>Software Developer</td> </tr> <tr> <td>💡 <b>Interests</b></td> <td>IoT, Full-Stack, ML</td> <td>🌐 <b>Languages</b></td> <td>English, Tamil</td> </tr> </table> </div>
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> Activity Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Senthilkumar&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="Activity Graph" /> </div>
-<img src="https://media.giphy.com/media/M9GBjHPzfw5tFKE1tr/giphy.gif" width="30"> Let's Connect & Collaborate
-<p align="center"> <a href="https://www.linkedin.com/in/senthil-kumar-m110174337/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/M-Senthilkumar"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="mailto:senthilmks007@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a> <a href="https://senthilkumar-m-portfolio.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /> </a> </p>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"> Internships & Achievements
-<details> <summary><b>🎯 Click to explore my journey</b></summary>
+ <summary><b>🎯 Click to explore my journey</b></summary>
 🏢 Internships
 Praya Labs, Thiruvannamalai — IoT & Robotics Intern
 
@@ -129,20 +119,7 @@ Paper presentation at Kongu Engineering College
 Technical quiz at PSG College of Technology
 
 </details>
-🎯 The Developer Mindset
-python
-class Senthilkumar:
-    def __init__(self):
-        self.name = "Senthilkumar M"
-        self.mission = "Build technology that makes a difference"
-        self.philosophy = "Every line of code solves a real problem"
-        self.methods = ["Learn", "Build", "Break", "Fix", "Repeat"]
-        
-    def daily_routine(self):
-        return "Coffee ☕ → Code 💻 → Create ✨ → Repeat 🔄"
-    
-    def future_goal(self):
-        return "Creating solutions that matter, one project at a time"
+
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div><div align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" /> <br/> <h3>✨ Thanks for stopping by! Let's build something amazing together! 🚀</h3> <p><i>"The best way to predict the future is to create it" - Peter Drucker</i></p> </div>
 📊 Current Learning Focus
 <div align="center"> <table> <tr> <td>☕ <b>Java</b></td> <td>███████████░░░ 70%</td> </tr> <tr> <td>📊 <b>DSA</b></td> <td>████████░░░░░░ 60%</td> </tr> <tr> <td>🌐 <b>Full-Stack</b></td> <td>██████████░░░░ 65%</td> </tr> <tr> <td>🧠 <b>ML/AI</b></td> <td>█████░░░░░░░░░ 40%</td> </tr> </table> </div>
