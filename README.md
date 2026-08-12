@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Senthil Kumar
 
-### 💻 Information Technology Student | Java Developer | Full-Stack & ML Enthusiast
+### 💻 Information Technology Student | Java Developer | Full-Stack Enthusiast
 
 > 🚀 **Building, learning, and solving problems one line of code at a time.**
 
@@ -80,8 +80,3 @@ Web Development
  ├── Express.js
  └── MongoDB
 
-Machine Learning
- ├── Python
- ├── TensorFlow
- ├── Keras
- └── Deep Learning
