@@ -11,7 +11,6 @@
 - 🎓 B.Tech Information Technology Student
 - ☕ Strong foundation in **Java & Object-Oriented Programming**
 - 🌐 Interested in **Full-Stack Web Development**
-- 🧠 Exploring **Machine Learning & Deep Learning**
 - 📚 Currently improving my **DSA & Problem-Solving** skills
 - 🔨 Love building practical projects
 - 🎯 Aspiring Software Developer
@@ -38,11 +37,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" />
 </p>
 
-### 🤖 Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras" />
-</p>
 
 ---
 
@@ -58,9 +53,6 @@ A URL shortening application built using:
 
 A full-stack web application developed using the **MERN Stack** for managing alumni-related information and interactions.
 
-### 🧠 Brain Tumor Classification
-
-A machine learning project focused on **deep learning and image classification**.
 
 ### ❄️ Smart Cold Box
 
