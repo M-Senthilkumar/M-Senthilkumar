@@ -4,7 +4,7 @@
 <div align="center"> <table> <tr> <td><img src="https://img.shields.io/badge/📊-Total%20Contributions-4ECDC4?style=for-the-badge" alt="Total Contributions"/><br/><b>Coming Soon</b><br/><small>Building in Progress</small></td> <td><img src="https://img.shields.io/badge/🔥-Current%20Streak-FF6B6B?style=for-the-badge" alt="Current Streak"/><br/><b>Active</b><br/><small>Learning Every Day</small></td> <td><img src="https://img.shields.io/badge/🏆-Projects%20Completed-FFD93D?style=for-the-badge" alt="Projects"/><br/><b>5+</b><br/><small>and Growing</small></td> </tr> </table> </div><div align="center"> <img src="https://img.shields.io/badge/⚡-LEARNING%20MODE-00B4D8?style=for-the-badge" alt="Learning Mode" /> <img src="https://img.shields.io/badge/📦-PROJECTS%20ACTIVE-4ECDC4?style=for-the-badge" alt="Projects Active" /> <img src="https://img.shields.io/badge/⭐-BUILDING%20FUTURE-FFD93D?style=for-the-badge" alt="Building Future" /> </div>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
 💻 Languages & Core
-<p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 🎨 Frontend Powerhouse
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> </p>
 ⚙️ Backend & Database
@@ -122,7 +122,7 @@ Technical quiz at PSG College of Technology
 
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </div><div align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200" /> <br/> <h3>✨ Thanks for stopping by! Let's build something amazing together! 🚀</h3> <p><i>"The best way to predict the future is to create it" - Peter Drucker</i></p> </div>
 📊 Current Learning Focus
-<div align="center"> <table> <tr> <td>☕ <b>Java</b></td> <td>███████████░░░ 70%</td> </tr> <tr> <td>📊 <b>DSA</b></td> <td>████████░░░░░░ 60%</td> </tr> <tr> <td>🌐 <b>Full-Stack</b></td> <td>██████████░░░░ 65%</td> </tr> <tr> <td>🧠 <b>ML/AI</b></td> <td>█████░░░░░░░░░ 40%</td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td>☕ <b>Java</b></td> <td>███████████░░░ 70%</td> </tr> <tr> <td>📊 <b>DSA</b></td> <td>████████░░░░░░ 60%</td> </tr> <tr> <td>🌐 <b>Full-Stack</b></td> <td>██████████░░░░ 65%</td> </tr> <tr> <td> </table> </div>
 
 
     
