@@ -1,82 +1,12 @@
-# 👋 Hi, I'm Senthil Kumar
-
-### 💻 Information Technology Student | Java Developer | Full-Stack Enthusiast
-
-> 🚀 **Building, learning, and solving problems one line of code at a time.**
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Information Technology Student
-- ☕ Strong foundation in **Java & Object-Oriented Programming**
-- 🌐 Interested in **Full-Stack Web Development**
-- 📚 Currently improving my **DSA & Problem-Solving** skills
-- 🔨 Love building practical projects
-- 🎯 Aspiring Software Developer
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github" />
-</p>
-
-
-
----
-
-## 🚀 Projects
-
-### 🔗 LinkSnap — URL Shortener
-
-A URL shortening application built using:
-
-**Node.js • Express.js • MongoDB • Mongoose**
-
-### 🎓 Alumni Portal
-
-A full-stack web application developed using the **MERN Stack** for managing alumni-related information and interactions.
-
-
-### ❄️ Smart Cold Box
-
-An IoT-based cold-chain solution using:
-
-**ESP32 • Peltier Module • PID Controller • IoT**
-
----
-
-## 📚 Currently Learning
-
-```text
-Java
- ├── OOP
- ├── Collections
- ├── Strings
- ├── Arrays
- ├── Exception Handling
- └── Data Structures & Algorithms
-
-Web Development
- ├── JavaScript
- ├── React
- ├── Node.js
- ├── Express.js
- └── MongoDB
-
+class Senthilkumar:
+    def __init__(self):
+        self.name = "Senthilkumar M"
+        self.mission = "Build technology that makes a difference"
+        self.philosophy = "Every line of code solves a real problem"
+        self.methods = ["Learn", "Build", "Break", "Fix", "Repeat"]
+        
+    def daily_routine(self):
+        return "Coffee ☕ → Code 💻 → Create ✨ → Repeat 🔄"
+    
+    def future_goal(self):
+        return "Creating solutions that matter, one project at a time"
